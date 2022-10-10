@@ -632,7 +632,7 @@ h5{
     padding: 2%;
     border-radius: 2px;
     box-shadow: 1px 2px 3px 2px #666;
-    max-width: 100%;
+    max-width: 80%;
     background-color: #faeded;
 }
 .map-container{
